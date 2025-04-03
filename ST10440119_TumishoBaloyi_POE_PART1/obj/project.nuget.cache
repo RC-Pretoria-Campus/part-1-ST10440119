@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQvhFZMUmmA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RC_Student_lab\\Documents\\ST10440119_TumishoBaloyi_POE_PART1\\ST10440119_TumishoBaloyi_POE_PART1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512",
+    "C:\\Users\\RC_Student_lab\\.nuget\\packages\\system.speech\\9.0.3\\system.speech.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
